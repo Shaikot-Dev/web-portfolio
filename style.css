@@ -1,0 +1,88 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    
+    font-size: 50px;
+}
+.name-highlight{
+    color: orange;
+}
+.section-1{
+    height: 600px;
+    width: 100%;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    
+}
+.left-side{
+    height: 600px;
+    width: 40%;
+    overflow: hidden;
+    float: left;
+    margin-left: 10%; 
+    text-align: justify;
+    
+}
+.left-side img{
+    height: 100%;
+    width: 80%;
+}
+.button-1{
+   
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;    
+    font-weight: 700;
+    width: 10%;
+    margin-top: 50px;
+    text-align: center;
+    
+}
+.button-1 a{
+    text-decoration: none;
+    color: white;
+}
+
+
+.section-2{
+    height: 600px;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: center;
+}
+.left-2{
+    height: 600px;
+    width: 40%;
+    overflow: hidden;
+    float: left;
+    margin-left: 10%; 
+    text-align: justify;
+    
+}
+.left-2 img{
+    width: 80%;
+    height: 100%;
+}
+.left-2 p{
+    width: 80%;
+    
+}.button-2{
+   
+    background-image: linear-gradient(45deg, lightSalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;    
+    font-weight: 700;
+    width: 26%;
+    margin-top: 50px;
+    text-align: center;
+    
+}
+.button-2 a{
+    text-decoration: none;
+    color: white;
+    
+}
